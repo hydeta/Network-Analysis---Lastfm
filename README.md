@@ -527,7 +527,7 @@ plt.show()
 
 
 
-![png](output_28_1.png)
+![png](/plots/output_28_1.png)
 
 
 **Takeaways:** It appears from visual inspection as though there is a slight negative correlation between time listening and influence.  If one fits a quadratic polynomial to the data we see that it is initially decreasing before increasing.  Based on the sparsity of data points on the upper end of the time listening distribution, I suspect the upward inflection is due to outliers and the true trend is negative.
