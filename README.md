@@ -57,9 +57,9 @@ Using this data, let's first load it into a proper SQL database and then see if 
 
 ```python
 #read .dat files into pandas dataframes
-artists = pd.read_csv('/Users/timothyhyde/Downloads/hetrec2011-lastfm-2k/artists.dat',sep='\t')
-users = pd.read_csv('/Users/timothyhyde/Downloads/hetrec2011-lastfm-2k/user_artists.dat',sep='\t')
-user_friends = pd.read_csv('/Users/timothyhyde/Downloads/hetrec2011-lastfm-2k/user_friends.dat',sep='\t')
+artists = pd.read_csv('/data/artists.dat',sep='\t')
+users = pd.read_csv('/data/user_artists.dat',sep='\t')
+user_friends = pd.read_csv('/data/user_friends.dat',sep='\t')
 ```
 
 
