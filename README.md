@@ -681,7 +681,7 @@ plt.show()
 ```
 
 
-![png](output_39_0.png)
+![png](/plots/output_39_0.png)
 
 
 
@@ -694,5 +694,5 @@ plt.show()
 ```
 
 
-![png](output_40_0.png)
+![png](/plots/output_40_0.png)
 
